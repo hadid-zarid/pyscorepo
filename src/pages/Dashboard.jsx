@@ -21,7 +21,7 @@ export default function Dashboard() {
                         <FaTruck className="text-3xl text-white" />
                     </div>
                     <div id="delivered-info" className=" flex flex-col">
-                        <span id="delivered-count" className="text-2xl font-bold">180</span>
+                        <span id="delivered-count" className="text-2xl font-bold">200</span>
                         <span id="delivered-text" className=" text-gray-400">Total Delivered</span>
                     </div>
                 </div>
