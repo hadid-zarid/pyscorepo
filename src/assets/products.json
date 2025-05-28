@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Nasi Goreng Sedap",
+    "desc": "Nasi goreng dengan bumbu spesial yang menggugah selera.",
+    "price": "Rp 30.000",
+    "image": "op121.png"
+  },
+  {
+    "id": 2,
+    "title": "Sate Ayam",
+    "desc": "Sate ayam dengan bumbu kacang yang kaya rasa.",
+    "price": "Rp 25.000",
+    "image": "op222.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Mie Goreng Spesial",
+    "desc": "Mie goreng dengan tambahan ayam dan sayuran segar.",
+    "price": "Rp 28.000",
+    "image": "op223.jpg"
+  }
+]

@@ -1,0 +1,213 @@
+[
+    {
+      "id": "ORD001",
+      "customer": "Budi Santoso",
+      "status": "Pending",
+      "total": 200000,
+      "date": "2025-05-01"
+    },
+    {
+      "id": "ORD002",
+      "customer": "Siti Aminah",
+      "status": "Completed",
+      "total": 350000,
+      "date": "2025-05-02"
+    },
+    {
+      "id": "ORD003",
+      "customer": "Andi Wijaya",
+      "status": "Cancelled",
+      "total": 120000,
+      "date": "2025-05-03"
+    },
+    {
+      "id": "ORD004",
+      "customer": "Rina Marlina",
+      "status": "Completed",
+      "total": 275000,
+      "date": "2025-05-04"
+    },
+    {
+      "id": "ORD005",
+      "customer": "Dedi Gunawan",
+      "status": "Pending",
+      "total": 145000,
+      "date": "2025-05-05"
+    },
+    {
+      "id": "ORD006",
+      "customer": "Wahyu Hidayat",
+      "status": "Completed",
+      "total": 210000,
+      "date": "2025-05-06"
+    },
+    {
+      "id": "ORD007",
+      "customer": "Yulianti",
+      "status": "Pending",
+      "total": 190000,
+      "date": "2025-05-07"
+    },
+    {
+      "id": "ORD008",
+      "customer": "Fajar Pratama",
+      "status": "Cancelled",
+      "total": 110000,
+      "date": "2025-05-08"
+    },
+    {
+      "id": "ORD009",
+      "customer": "Nur Aini",
+      "status": "Completed",
+      "total": 300000,
+      "date": "2025-05-09"
+    },
+    {
+      "id": "ORD010",
+      "customer": "Galih Ramadhan",
+      "status": "Pending",
+      "total": 225000,
+      "date": "2025-05-10"
+    },
+    {
+      "id": "ORD011",
+      "customer": "Dian Sari",
+      "status": "Completed",
+      "total": 180000,
+      "date": "2025-05-11"
+    },
+    {
+      "id": "ORD012",
+      "customer": "Rizky Febrian",
+      "status": "Cancelled",
+      "total": 160000,
+      "date": "2025-05-12"
+    },
+    {
+      "id": "ORD013",
+      "customer": "Mega Lestari",
+      "status": "Pending",
+      "total": 130000,
+      "date": "2025-05-13"
+    },
+    {
+      "id": "ORD014",
+      "customer": "Ahmad Zulfikar",
+      "status": "Completed",
+      "total": 270000,
+      "date": "2025-05-14"
+    },
+    {
+      "id": "ORD015",
+      "customer": "Tari Indah",
+      "status": "Pending",
+      "total": 310000,
+      "date": "2025-05-15"
+    },
+    {
+      "id": "ORD016",
+      "customer": "Bagus Saputra",
+      "status": "Cancelled",
+      "total": 200000,
+      "date": "2025-05-16"
+    },
+    {
+      "id": "ORD017",
+      "customer": "Lina Rosita",
+      "status": "Completed",
+      "total": 400000,
+      "date": "2025-05-17"
+    },
+    {
+      "id": "ORD018",
+      "customer": "Hendra Supriadi",
+      "status": "Pending",
+      "total": 290000,
+      "date": "2025-05-18"
+    },
+    {
+      "id": "ORD019",
+      "customer": "Putri Ayu",
+      "status": "Completed",
+      "total": 220000,
+      "date": "2025-05-19"
+    },
+    {
+      "id": "ORD020",
+      "customer": "Ilham Nugraha",
+      "status": "Cancelled",
+      "total": 170000,
+      "date": "2025-05-20"
+    },
+    {
+      "id": "ORD021",
+      "customer": "Desi Novita",
+      "status": "Pending",
+      "total": 240000,
+      "date": "2025-05-21"
+    },
+    {
+      "id": "ORD022",
+      "customer": "Bayu Aditya",
+      "status": "Completed",
+      "total": 310000,
+      "date": "2025-05-22"
+    },
+    {
+      "id": "ORD023",
+      "customer": "Nia Kurnia",
+      "status": "Pending",
+      "total": 200000,
+      "date": "2025-05-23"
+    },
+    {
+      "id": "ORD024",
+      "customer": "Rico Prabowo",
+      "status": "Completed",
+      "total": 260000,
+      "date": "2025-05-24"
+    },
+    {
+      "id": "ORD025",
+      "customer": "Tina Agustin",
+      "status": "Cancelled",
+      "total": 150000,
+      "date": "2025-05-25"
+    },
+    {
+      "id": "ORD026",
+      "customer": "Iqbal Ramadhan",
+      "status": "Pending",
+      "total": 180000,
+      "date": "2025-05-26"
+    },
+    {
+      "id": "ORD027",
+      "customer": "Shinta Dewi",
+      "status": "Completed",
+      "total": 330000,
+      "date": "2025-05-27"
+    },
+    {
+      "id": "ORD028",
+      "customer": "Rangga Saputra",
+      "status": "Pending",
+      "total": 210000,
+      "date": "2025-05-28"
+    },
+    {
+      "id": "ORD029",
+      "customer": "Yani Marlina",
+      "status": "Completed",
+      "total": 370000,
+      "date": "2025-05-29"
+    },
+    {
+      "id": "ORD030",
+      "customer": "Dimas Wahyu",
+      "status": "Cancelled",
+      "total": 140000,
+      "date": "2025-05-30"
+    }
+  ]
+  

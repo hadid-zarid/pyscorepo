@@ -1,0 +1,32 @@
+[
+  {
+    "kode_produk": "P001",
+    "nama_produk": "Nasi Goreng Spesial",
+    "harga": 25000,
+    "stok": 15
+  },
+  {
+    "kode_produk": "P002",
+    "nama_produk": "Ayam Bakar Madu",
+    "harga": 40000,
+    "stok": 0
+  },
+  {
+    "kode_produk": "P003",
+    "nama_produk": "Sate Ayam",
+    "harga": 30000,
+    "stok": 7
+  },
+  {
+    "kode_produk": "P004",
+    "nama_produk": "Es Teh Manis",
+    "harga": 8000,
+    "stok": 20
+  },
+  {
+    "kode_produk": "P005",
+    "nama_produk": "Kue Lapis Legit",
+    "harga": 50000,
+    "stok": 3
+  }
+]

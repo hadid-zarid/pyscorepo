@@ -1,0 +1,32 @@
+[
+  {
+    "nama": "Dina Rahma",
+    "nomor_hp": "081234567890",
+    "poin": 120,
+    "status_member": "Gold"
+  },
+  {
+    "nama": "Budi Santoso",
+    "nomor_hp": "082345678901",
+    "poin": 85,
+    "status_member": "Silver"
+  },
+  {
+    "nama": "Siti Aminah",
+    "nomor_hp": "083456789012",
+    "poin": 40,
+    "status_member": "Bronze"
+  },
+  {
+    "nama": "Rudi Hartono",
+    "nomor_hp": "084567890123",
+    "poin": 200,
+    "status_member": "Platinum"
+  },
+  {
+    "nama": "Tono Wirawan",
+    "nomor_hp": "085678901234",
+    "poin": 65,
+    "status_member": "Silver"
+  }
+]
