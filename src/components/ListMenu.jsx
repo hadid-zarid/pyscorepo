@@ -3,6 +3,7 @@ import { BsFillPersonFill } from "react-icons/bs";
 import { CgShoppingCart } from "react-icons/cg";
 import { MdDashboard } from "react-icons/md";
 import { NavLink } from "react-router-dom";
+import { MdFastfood } from "react-icons/md";
 
 export default function ListMenu() {
   const baseMenuClass = `flex cursor-pointer items-center rounded-xl p-4 font-medium text-gray-600 hover:bg-green-100 hover:text-hijau hover:font-extrabold transition-colors duration-200`;
@@ -56,6 +57,16 @@ export default function ListMenu() {
           >
             <BsFillPersonFill className="mr-4 text-2xl" />
             Users
+          </NavLink>
+        </li>
+        <li>
+          <NavLink
+                  id="menu-4"
+                  to="/products"
+                  className={baseMenuClass}
+              >
+                  <MdFastfood className="mr-4 text-xl" />
+                  Products
           </NavLink>
         </li>
         <li>
