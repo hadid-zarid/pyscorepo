@@ -1,3 +1,5 @@
+import { MdAccountBox } from "react-icons/md"; 
+import { CgNotes } from "react-icons/cg"; 
 import { BiErrorCircle } from "react-icons/bi"; 
 import { BsFillPersonFill } from "react-icons/bs";
 import { CgShoppingCart } from "react-icons/cg";
@@ -43,7 +45,7 @@ export default function ListMenu() {
               `${baseMenuClass} ${isActive ? "bg-green-600 text-white" : ""}`
             }
           >
-            <BsFillPersonFill className="mr-4 text-2xl" />
+            <MdAccountBox  className="mr-4 text-2xl" />
             Customers
           </NavLink>
         </li>
@@ -65,8 +67,18 @@ export default function ListMenu() {
                   to="/products"
                   className={baseMenuClass}
               >
-                  <MdFastfood className="mr-4 text-xl" />
+                  <MdFastfood  className="mr-4 text-xl" />
                   Products
+          </NavLink>
+        </li>
+        <li>
+          <NavLink
+                  id="menu-4"
+                  to="/note"
+                  className={baseMenuClass}
+              >
+                  <CgNotes className="mr-4 text-xl" />
+                  Notes
           </NavLink>
         </li>
         <li>
